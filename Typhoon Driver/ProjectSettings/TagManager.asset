@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ClosePass
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2028737301
+    locked: 0
+  - name: Road
+    uniqueID: 3748227477
+    locked: 0
+  - name: NpcCar
+    uniqueID: 3262315911
+    locked: 0
+  - name: Player
+    uniqueID: 561407441
+    locked: 0
+  - name: Vignette
+    uniqueID: 587382771
+    locked: 0
+  - name: Canvas
+    uniqueID: 3902807265
+    locked: 0
+  - name: PopupText
+    uniqueID: 1564639473
+    locked: 0
